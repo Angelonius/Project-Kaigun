@@ -11,15 +11,15 @@
 	},
 	{	
 		"name": "Solar Disk Sanctuary",
-		"replaces": "Temple",
+		"replaces": "Amphitheater",
 		"cost": 80,
 		"uniqueTo": "Dacia",
 		"maintenance": 2,
 		"culture": 3,
 		"science": 1,
-		"specialistSlots": {"science": 1},
+		"specialistSlots": {"Artist": 1},
 		"requiredBuilding": "Monument",
 		"hurryCostModifier": 25,
-		"requiredTech": "Calendar"
+		"requiredTech": "Drama and Poetry"
 	}
 ]

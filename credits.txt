@@ -1,0 +1,3 @@
+Here are all the sources for the various image files used in this mod along with the.atlas file:
+
+1. LynxRo's mod: https://github.com/LynxRo/Dacia-Unciv-mod

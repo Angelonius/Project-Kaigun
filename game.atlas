@@ -1,33 +1,26 @@
 
 game.png
-size: 1024,256
+size: 1024, 256
 format: RGBA8888
-filter: MipMapLinearLinear,MipMapLinearLinear
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Dacian Walls
+UnitIcons/Battlecarrier
   rotate: false
-  xy: 204, 2
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Solar Disk Sanctuary
+UnitIcons/Seacopter
   rotate: false
-  xy: 608, 2
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-NationIcons/Dacia
+UnitIcons/Submarine Carrier
   rotate: false
-  xy: 2, 2
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-UnitIcons/Falx Warrior
-  rotate: false
-  xy: 406, 2
+  xy: 420, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0

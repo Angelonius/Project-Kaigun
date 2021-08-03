@@ -1,3 +1,5 @@
 Here are all the sources for the various image files used in this mod along with the.atlas file:
 
-1. LynxRo's mod: https://github.com/LynxRo/Dacia-Unciv-mod
+1. Battlecarrier: https://thenounproject.com/search/?q=battleship&i=4019955 By Teewara soontorn, TH
+2. Seacopter: https://thenounproject.com/atifarshad/collection/helicopters-collection-1/?i=3879065 By Atif Arshad, AE
+3. Naval Bomber: https://thenounproject.com/search/?q=bomber&i=3564159 By Hey Rabbit, TH 

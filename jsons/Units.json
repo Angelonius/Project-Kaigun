@@ -1,18 +1,42 @@
 [
 	{
-		"name": "Falx Warrior",
-		"unitType": "Melee",
-		"uniqueTo": "Dacia",
-		"replaces": "Swordsman",
-		"movement": 2,
-		"strength": 16,
-		"cost": 75,
-		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
-		"obsoleteTech": "Gunpowder",
-		"requiredResource": "Iron",
-		"promotions": ["Ambush I", "Formation I"],
-		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
-	}
+		"name": "Battlecarrier",
+		"unitType": "WaterRanged",
+		"movement": 8,
+		"strength": 85,
+		"rangedStrength": 85,
+		"range": 3,
+		"interceptRange": 2,
+		"cost": 425,
+		"requiredResource": "Oil",
+		"requiredTech": "Robotics",
+		"uniques": ["Ranged attacks may be performed over obstacles","Can carry [2] [Air] units","[100]% chance to intercept air attacks"],
+		"attackSound": "shipguns"
+	},
+	{
+		"name": "Submarine Carrier",
+		"unitType": "WaterSubmarine",
+		"movement": 6,
+		"strength": 50,
+		"range": 3,
+		"rangedStrength": 85,
+		"cost": 425,
+		"requiredTech": "Telecommunications",
+		"uniques": ["+[75]% Strength when attacking", "Invisible to others", 
+			"Can only attack [Water] tiles", "Can attack submarines", "Can enter ice tiles", 
+			"[+1] Visibility Range", "Can carry [2] [Air] units"],
+		"attackSound": "torpedo"
+	},
+	{
+		"name": "Seacopter",
+		"unitType": "Bomber",
+		"strength": 65,
+		"rangedStrength": 65,
+		"range": 8,
+		"cost": 425,
+		"requiredTech": "Computers",
+		"requiredResource": "Oil",
+		"uniques": ["Can attack submarines","+[100]% Strength vs [submarine units]","Can move after attacking"],
+		"attackSound": "bombing"
+	},
 ]

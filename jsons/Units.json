@@ -29,7 +29,7 @@
 	},
 	{
 		"name": "Seacopter",
-		"unitType": "Helicopter Sea",
+		"unitType": "Helicopter Water",
 		"strength": 65,
 		"rangedStrength": 65,
 		"range": 8,

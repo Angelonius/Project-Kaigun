@@ -22,7 +22,7 @@
 		"rangedStrength": 85,
 		"cost": 425,
 		"requiredTech": "Telecommunications",
-		"uniques": ["+[75]% Strength when attacking", "Invisible to others", 
+		"uniques": ["[+75]% Strength <when attacking>", "Invisible to others", 
 			"Can only attack [Water] tiles", "Can attack submarines", "Can enter ice tiles", 
 			"[+1] Visibility Range", "Can carry [2] [Air] units"],
 		"attackSound": "torpedo"
@@ -37,7 +37,7 @@
 		"cost": 425,
 		"requiredTech": "Computers",
 		"requiredResource": "Oil",
-		"uniques": ["Can attack submarines","+[100]% Strength vs [submarine units]","Can move after attacking"],
+		"uniques": ["Can attack submarines","[+100]% Strength <vs [submarine units]>","Can move after attacking"],
 		"attackSound": "bombing"
 	},
 ]

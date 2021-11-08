@@ -10,7 +10,8 @@
 		"cost": 425,
 		"requiredResource": "Oil",
 		"requiredTech": "Robotics",
-		"uniques": ["Ranged attacks may be performed over obstacles","Can carry [2] [Air] units","[100]% chance to intercept air attacks"],
+		"uniques": ["Ranged attacks may be performed over obstacles","Can carry [2] [Air] units","[100]% chance to intercept air attacks", 
+			    "Never appears as a Barbarian unit"],
 		"attackSound": "shipguns"
 	},
 	{
@@ -23,8 +24,8 @@
 		"cost": 425,
 		"requiredTech": "Telecommunications",
 		"uniques": ["[+75]% Strength <when attacking>", "Invisible to others", 
-			"Can only attack [Water] tiles", "Can attack submarines", "Can enter ice tiles", 
-			"[+1] Visibility Range", "Can carry [2] [Air] units"],
+			"Can only attack [Water] tiles", "Can attack submarines", "Can enter ice tiles", "[+1] Visibility Range", "Can carry [2] [Air] units", 
+			   "Never appears as a Barbarian unit"],
 		"attackSound": "torpedo"
 	},
 	{
@@ -37,7 +38,7 @@
 		"cost": 425,
 		"requiredTech": "Computers",
 		"requiredResource": "Oil",
-		"uniques": ["Can attack submarines","[+100]% Strength <vs [submarine units]>","Can move after attacking"],
+		"uniques": ["Can attack submarines","[+100]% Strength <vs [submarine units]>","Can move after attacking", "Never appears as a Barbarian unit"],
 		"attackSound": "bombing"
 	},
 ]

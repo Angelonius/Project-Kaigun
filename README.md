@@ -10,3 +10,5 @@ v.1.3: Updated the damage values.
 v.1.4: Updated all units and buffed the Seacopter.
 
 v.1.5: Updated the Submarine Carrier.
+
+v.1.6: Updated the Seacopter.

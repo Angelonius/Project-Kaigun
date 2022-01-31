@@ -38,7 +38,7 @@
 		"cost": 425,
 		"requiredTech": "Computers",
 		"requiredResource": "Oil",
-		"uniques": ["Can attack submarines","[+100]% Strength <vs [submarine units]>","Can move after attacking", "Can see invisible [Submarine] units", 
+		"uniques": ["Can attack submarines","[+100]% Strength <vs [Submarine] units>","Can move after attacking", "Can see invisible [Submarine] units", 
 			    "Never appears as a Barbarian unit"],
 		"attackSound": "bombing"
 	},

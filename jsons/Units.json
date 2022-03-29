@@ -10,8 +10,9 @@
 		"cost": 425,
 		"requiredResource": "Oil",
 		"requiredTech": "Robotics",
-		"uniques": ["Ranged attacks may be performed over obstacles","Can carry [2] [Air] units","[100]% chance to intercept air attacks", 
+		"uniques": ["Can carry [2] [Air] units","[100]% chance to intercept air attacks", 
 			    "Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire"],
 		"attackSound": "shipguns"
 	},
 	{

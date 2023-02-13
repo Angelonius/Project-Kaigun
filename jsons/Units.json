@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "Seacopter",
-		"unitType": "Air Helicopter",
+		"unitType": "Air Bomber",
 		"movement": 6,
 		"strength": 65,
 		"rangedStrength": 65,

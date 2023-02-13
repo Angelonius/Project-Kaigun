@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Battlecarrier",
-		"unitType": "Ranged Water",
+		"unitType": "Naval Ranged",
 		"movement": 8,
 		"strength": 85,
 		"rangedStrength": 85,
@@ -17,7 +17,7 @@
 	},
 	{
 		"name": "Submarine Carrier",
-		"unitType": "Submarine",
+		"unitType": "Naval Submarine",
 		"movement": 6,
 		"strength": 50,
 		"range": 3,
@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "Seacopter",
-		"unitType": "Helicopter Water",
+		"unitType": "Sea Helicopter",
 		"movement": 6,
 		"strength": 65,
 		"rangedStrength": 65,

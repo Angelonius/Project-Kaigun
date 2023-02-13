@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "Seacopter",
-		"unitType": "Sea Helicopter",
+		"unitType": "Air Helicopter",
 		"movement": 6,
 		"strength": 65,
 		"rangedStrength": 65,

@@ -2,7 +2,7 @@
 	{
 		"name": "Battlecarrier",
 		"unitType": "Naval Ranged",
-		"movement": 8,
+		"movement": 5,
 		"strength": 85,
 		"rangedStrength": 85,
 		"range": 3,
@@ -24,6 +24,7 @@
 		"rangedStrength": 85,
 		"cost": 500,
 		"requiredTech": "Telecommunications",
+		"requiredResource": "Uranium",
 		"uniques": ["[+75]% Strength <when attacking>", "Invisible to others", 
 			"Can only attack [Water] tiles", "Can attack submarines", "Can enter ice tiles", "[+1] Sight", "Can carry [2] [Air] units", 
 			   "Never appears as a Barbarian unit"],

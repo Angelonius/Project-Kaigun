@@ -1,0 +1,41 @@
+
+game.png
+size: 1024, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Units/Battlecarrier
+  rotate: false
+  xy: 4, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Submarine Carrier
+  rotate: false
+  xy: 628, 212
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Battlecarrier
+  rotate: false
+  xy: 4, 44
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Seacopter
+  rotate: false
+  xy: 212, 44
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Submarine Carrier
+  rotate: false
+  xy: 420, 44
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
